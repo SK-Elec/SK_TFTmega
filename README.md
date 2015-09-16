@@ -14,3 +14,11 @@
   * Version 1 (blue) Board - HC05 module
   * Version 2 (black) Board - HC05,06,07,09,SG133 modules
 * External SPI flash - any flash in SOIC8wide package
+
+Will eventually be Arduino Compatible.  
+
+Circuit board is available from http://dirtypcbs.com/
+
+[DirtyPCB - Original (blue) board design - 26pin 2.2inch TFT](http://dirtypcbs.com/view.php?share=6147&accesskey=4e5c933dc753b0b682e8400bb59528d8)
+
+[DirtyPCB - Current (black) board design - 32pin 2.2inch TFT](http://dirtypcbs.com/view.php?share=11087&accesskey=3cab0f51e83418498510e6ca49196ce7)
