@@ -29,3 +29,5 @@ Circuit board is available from http://dirtypcbs.com/
 ![Front Face](https://drive.google.com/uc?id=0B-Bn_VSm_DmHMDRyT0E5R0c3RkE)
 
 ![Component Side](https://drive.google.com/uc?id=0B-Bn_VSm_DmHWmRBZ0dhU0VvTms)
+
+![Component Layout](https://drive.google.com/uc?id=0B-Bn_VSm_DmHZVRMR1NxUHVUODQ)
