@@ -22,3 +22,10 @@ Circuit board is available from http://dirtypcbs.com/
 [DirtyPCB - Original (blue) board design - 26pin 2.2inch TFT](http://dirtypcbs.com/view.php?share=6147&accesskey=4e5c933dc753b0b682e8400bb59528d8)
 
 [DirtyPCB - Current (black) board design - 32pin 2.2inch TFT](http://dirtypcbs.com/view.php?share=11087&accesskey=3cab0f51e83418498510e6ca49196ce7)
+
+## Current partially assembled prototype;
+![Programmer, LCD & USB Power Cable](https://drive.google.com/uc?id=0B-Bn_VSm_DmHb2JsWGJoUUZtU0U)
+
+![Front Face](https://drive.google.com/uc?id=0B-Bn_VSm_DmHMDRyT0E5R0c3RkE)
+
+![Component Side](https://drive.google.com/uc?id=0B-Bn_VSm_DmHWmRBZ0dhU0VvTms)
