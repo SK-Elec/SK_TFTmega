@@ -2,7 +2,7 @@
  * MegaTFT-S6.c
  *
  * Created: 29/01/2016 9:28:59 PM
- * Author : Steve Wurst
+ * Author : SKFazer
  */
 
 
